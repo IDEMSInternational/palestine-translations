@@ -99,8 +99,8 @@ msgstr "❤️ قبل ما نبدأ، في عنّا شوية أسئلة لحتى
 
 #. type=text
 msgctxt "text"
-msgid "📲 How would you prefer to receive content —through mostly text / images or with audio guides?"
-msgstr "📲 كيف بتحب ينبعتلك المحتوى — عن طريق النصوص والصور غالبًا أو مع إرشادات صوتية؟"
+msgid "📲 How would you prefer to receive content —through only text and images or with an additional audio guide?"
+msgstr "كيف تفضل تلقي المحتوى — عن طريق النصوص والصور فقط أو مع إرشادي صوتي إضافي؟ 📲"
 
 #. type=text
 msgctxt "text"
@@ -179,13 +179,13 @@ msgstr "الرجوع"
 
 #. type=quick_replies
 msgctxt "quick_replies"
-msgid "Text / Images"
-msgstr "نص/ صور"
+msgid "Text and images only"
+msgstr "نص وصور فقط"
 
 #. type=quick_replies
 msgctxt "quick_replies"
-msgid "Audio"
-msgstr "ملف صوتي"
+msgid "Text, images, and audio"
+msgstr "نص وصور والصوت"
 
 #. type=quick_replies
 msgctxt "quick_replies"

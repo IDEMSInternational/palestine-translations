@@ -94,7 +94,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "📲 How would you prefer to receive content —through mostly text / images or with audio guides?"
+msgid "📲 How would you prefer to receive content —through only text and images or with an additional audio guide?"
 msgstr ""
 
 #. type=text
@@ -180,13 +180,13 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Text / Images"
+msgid "Text and images only"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Audio"
+msgid "Text, images, and audio"
 msgstr ""
 
 #. type=quick_replies
