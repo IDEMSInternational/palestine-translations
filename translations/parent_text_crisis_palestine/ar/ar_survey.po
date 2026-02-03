@@ -147,6 +147,16 @@ msgctxt "text"
 msgid "Today you will receive your final tips. First, we have 3 questions to ask about how you and your children are doing. ❤️"
 msgstr "اليوم رح توصلك آخر نصائح! بس بالأول في عنا ٣ أسئلة عن كيف حالك إنت وأولادك. ❤️"
 
+#. type=text
+msgctxt "text"
+msgid "You have already completed the survey."
+msgstr "شكرًا لمشاركتك لقد أكملتَ/أكملتِ هذا الاستبيان بالفعل."
+
+#. type=text
+msgctxt "text"
+msgid "🎉🎉🎉🎉"
+msgstr "🎉🎉🎉🎉"
+
 #. type=quick_replies
 msgctxt "quick_replies"
 msgid "NEXT"

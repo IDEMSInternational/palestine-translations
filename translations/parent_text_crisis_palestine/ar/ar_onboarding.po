@@ -339,13 +339,13 @@ msgstr "لا"
 
 #. type=arguments
 msgctxt "arguments"
-msgid "text / images"
-msgstr "نص/ صور"
+msgid "text and images only
+msgstr "نص وصور فقط"
 
 #. type=arguments
 msgctxt "arguments"
-msgid "audio"
-msgstr "ملف صوتي"
+msgid "text, images, and audio"
+msgstr "نص وصور والصوت"
 
 #. type=arguments
 msgctxt "arguments"
